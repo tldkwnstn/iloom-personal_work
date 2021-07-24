@@ -124,11 +124,12 @@ html {
   position: absolute;
   top:26%;
   left: 52%;
+  right: auto;
 }
 
 .box-11 {
   position: absolute;
   top:15%;
   left:auto;
-  right: 50%;
+  right: 52%;
 }
