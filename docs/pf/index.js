@@ -34,7 +34,6 @@ gsap.from('.box-4', {
   duration:1.2,
   scrollTrigger:{
     trigger:'.section-4',
-    markers:true,
     start:'-30%, 87%'
   }
 });
@@ -110,7 +109,6 @@ gsap.to('.box-11', {
   duration:2.5,
   scrollTrigger:{
     trigger:'.section-12',
-    markers:true,
     start:'30%, 90%'
   }
 });
